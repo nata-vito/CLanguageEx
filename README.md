@@ -1,2 +1,2 @@
 # CLamguageEx
-Exercise in C languange 
+Exercises in C languange 
